@@ -1,6 +1,9 @@
 using System;
 using Xunit;
 using Statistics;
+using System.Collections.Generic;
+using Xunit.Abstractions;
+using static Statistics.Stats;
 
 namespace Statistics.Test
 {
